@@ -11,4 +11,7 @@
 <a href="https://github.com//Carlos-Ballon/COVID-19_DMII_ICA_Cross-Sectional">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Carlos-Ballon&repo=COVID-19_DMII_ICA_Cross-Sectional" />
 </a>
+<a href="https://github.com//Carlos-Ballon/COVID-19_DMII_ICA_Case-Control">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Carlos-Ballon&repo=COVID-19_DMII_ICA_Case-Control" />
+</a>
 
